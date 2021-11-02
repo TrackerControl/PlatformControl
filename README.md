@@ -1,7 +1,7 @@
 # PlatformControl: Privacy Analysis of iOS and Android Apps at Scale
 Download and analyse the privacy properties of Android and iOS apps at scale.
 
-This projects has multiple parts:
+This project has multiple parts:
 
 1. <https://github.com/OxfordHCC/xray-archiver-android-ios> - To explore what iOS and Android apps are on the stores, and also for the download of Android apps as well as a high level analysis of iOS and Android apps.
 2. <https://github.com/OxfordHCC/platformcontrol-ios-downloader> - To download iOS apps at scale from the App Store.
