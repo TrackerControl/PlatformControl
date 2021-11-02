@@ -22,7 +22,7 @@ We've already published:
 If you use this project as part of your academic studies, please kindly cite the below article:
 
 ```
-@article{kollnig2021iphones,
+@article{kollnig2021,
       title={Are iPhones Really Better for Privacy? A Comparative Study of iOS and Android Apps}, 
       author={Konrad Kollnig and Anastasia Shuba and Reuben Binns and Max {Van Kleek} and Nigel Shadbolt},
       year={2021},
