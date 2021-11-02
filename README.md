@@ -3,7 +3,7 @@ Download and analyse privacy properties of Android and iOS apps at scale.
 
 This project has multiple parts:
 
-1. <https://github.com/OxfordHCC/xray-archiver-android-ios> - To explore what iOS and Android apps are on the app stores, and also for the download of Android apps, as well as a high level analysis of iOS and Android apps.
+1. <https://github.com/OxfordHCC/xray-archiver-android-ios> - To explore what iOS and Android apps are on the app stores, and also for the download of Android apps, as well as a high level analysis of iOS and Android apps (permissions, mainly).
 2. <https://github.com/OxfordHCC/platformcontrol-token-dispenser> - Required for the downloading of Android apps at scale.
 3. <https://github.com/OxfordHCC/platformcontrol-ios-downloader> - To download iOS apps at scale from the App Store.
 4. <https://github.com/OxfordHCC/platformcontrol-android-ios-analysis> - For the analysis of tracking libraries and contacted tracking domains, for both iOS and Android
