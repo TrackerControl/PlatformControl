@@ -23,6 +23,13 @@ We've already published:
 If you use this project as part of your academic studies, please kindly cite the below articles:
 
 ```
+@article{kollnig2021_iphone_android,
+      title={Are iPhones Really Better for Privacy? A Comparative Study of iOS and Android Apps}, 
+      author={Konrad Kollnig and Anastasia Shuba and Reuben Binns and Max {Van Kleek} and Nigel Shadbolt},
+      year={2021},
+      journal={arXiv preprint arXiv:2109.13722}
+}
+
 @inproceedings {kollnig2021_consent,
       author = {Konrad Kollnig and Pierre Dewitte and Max Van Kleek and Ge Wang and Daniel Omeiza and Helena Webb and Nigel Shadbolt},
       title = {A Fait Accompli? An Empirical Study into the Absence of Consent to Third-Party Tracking in Android Apps},
