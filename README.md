@@ -7,7 +7,7 @@ This project has multiple parts:
 2. <https://github.com/OxfordHCC/platformcontrol-token-dispenser> - Required for the downloading of Android apps at scale.
 3. <https://github.com/OxfordHCC/platformcontrol-ios-downloader> - To download iOS apps at scale from the App Store.
 4. <https://github.com/OxfordHCC/platformcontrol-android-ios-analysis> - For the analysis of tracking libraries and contacted tracking domains, for both iOS and Android
-5. <https://github.com/OxfordHCC/JustTrustMe> - To disbale certificate pinning in Android apps
+5. <https://github.com/OxfordHCC/JustTrustMe> - To disable certificate pinning in Android apps
 
 ## Data Access
 
