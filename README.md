@@ -45,7 +45,7 @@ If you use this project as part of your academic studies, please kindly cite the
       isbn = {978-1-939133-25-0},
       pages = {181--196},
       url = {https://www.usenix.org/conference/soups2021/presentation/kollnig},
-      publisher = {{USENIX} Association},
+      publisher = {{USENIX Association}},
       month = aug,
 }
 ```
