@@ -1,6 +1,6 @@
 # PlatformControl
 
-**Downloading and privacy analysis of iOS and Android apps at scale**
+**Download and privacy analysis of iOS and Android apps at scale**
 
 This project has multiple parts:
 
