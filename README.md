@@ -19,6 +19,12 @@ We've already published:
 - our dataset of iOS tracker libraries: <https://github.com/OxfordHCC/platformcontrol-analysis/blob/main/data/ios_signatures.json>
 - our database of tracking domains, and the networks of companies and the jurisdictions behind: https://github.com/OxfordHCC/tracker-control-android/blob/master/app/src/main/assets/xray-blacklist.json
 
+## Ready-to-use analysis with TrackerControl
+
+As a sub project of PlatformControl, TrackerControl is an indepedent and somewhat popular Android app to privacy analysis and control. It contains some of the core analysis functionality of PlatformControl (though by far not all of it), conducting both network traffic and tracker library analysis.
+
+You can find TrackerControl at <https://github.com/OxfordHCC/tracker-control-android>.
+
 ## Citation
 
 If you use this project as part of your academic studies, please kindly cite the below articles:
