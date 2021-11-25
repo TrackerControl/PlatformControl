@@ -1,4 +1,4 @@
-# PlatformControl: Privacy Analysis of iOS and Android Apps at Scale
+# PlatformControl: Downloading and Privacy Analysis of iOS and Android Apps at Scale
 Download and analyse privacy properties of Android and iOS apps at scale.
 
 This project has multiple parts:
