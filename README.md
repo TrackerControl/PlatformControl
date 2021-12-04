@@ -24,13 +24,11 @@ This project has multiple parts:
 
 ## Data Access
 
-If you're interested in getting access to the data that we used for our study, please get in touch with us directly.
-
-We're currently in the process of making our data available.
-
 We've already published:
 - our dataset of iOS tracker libraries: <https://github.com/kasnder/platformcontrol-android-ios-analysis/blob/main/data/ios_signatures.json>
 - our database of tracking domains, and the networks of companies and the jurisdictions behind: <https://github.com/OxfordHCC/tracker-control-android/blob/master/app/src/main/assets/xray-blacklist.json>
+
+We're currently in the process of making more data available.
 
 ## Ready-to-use analysis with TrackerControl
 
