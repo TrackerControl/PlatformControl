@@ -36,6 +36,10 @@ We've already published:
 
 As a sub project of PlatformControl, TrackerControl is an indepedent and somewhat popular Android app to privacy analysis and control. It contains some of the core analysis functionality of PlatformControl (though by far not all of it), conducting both network traffic and tracker library analysis.
 
+<p align="center">
+  <img alt="TrackerControl Logo" src="https://raw.githubusercontent.com/kasnder/tracker-control-android/master/images/logo.png" style="display: block; margin: 0 auto;" height="100%" width="200" >
+</p>
+
 You can find TrackerControl at <https://trackercontrol.org/>.
 
 Download directly [here](https://github.com/OxfordHCC/tracker-control-android/releases/latest/download/TrackerControl-githubRelease-latest.apk), from [F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid), or a feature-reduced version from [Google Play](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play).
