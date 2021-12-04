@@ -2,6 +2,8 @@
 
 **Download and privacy analysis of iOS and Android apps at scale.**
 
+The development of PlatformControl was led by Konrad Kollnig from the Computer Science Department, University of Oxford.
+
 ## Overview
 
 This project has multiple parts:
