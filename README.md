@@ -10,7 +10,7 @@ The development of PlatformControl was led by Konrad Kollnig from the Computer S
   <img alt="Architecture" src="architecture.png" style="display: block; margin: 0 auto;" height="100%" width="100%" >
 </p>
 
-The above figures shows a schematic overview of how this repository was used in a past research paper. For details, please see the corresponding publication: [Are iPhones Really Better for Privacy? AComparative Study of iOS and Android Apps](https://arxiv.org/abs/2109.13722)
+The above figure shows a schematic overview of how this repository was used in a past research paper. For details, please see the corresponding publication: [Are iPhones Really Better for Privacy? AComparative Study of iOS and Android Apps](https://arxiv.org/abs/2109.13722)
 
 ## Organisation
 
