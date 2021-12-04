@@ -6,6 +6,14 @@ The development of PlatformControl was led by Konrad Kollnig from the Computer S
 
 ## Overview
 
+<p align="center">
+  <img alt="Architecture" src="architecture.png" style="display: block; margin: 0 auto;" height="100%" width="600" >
+</p>
+
+The above figures shows a schematic overview of how this repository was used in a past research paper. For details, please see the corresponding publication: [Are iPhones Really Better for Privacy? AComparative Study of iOS and Android Apps](https://arxiv.org/abs/2109.13722)
+
+## Organisation
+
 This project has multiple parts:
 
 1. <https://github.com/OxfordHCC/xray-archiver-android-ios> - To explore what iOS and Android apps are on the app stores, and also for the download of Android apps, as well as a high level analysis of iOS and Android apps (permissions, mainly).
@@ -13,12 +21,6 @@ This project has multiple parts:
 3. <https://github.com/OxfordHCC/platformcontrol-ios-downloader> - To download iOS apps at scale from the App Store.
 4. <https://github.com/kasnder/platformcontrol-android-ios-analysis> - For the analysis of tracking libraries and contacted tracking domains, for both iOS and Android
 5. <https://github.com/OxfordHCC/JustTrustMe> - To disable certificate pinning in Android apps
-
-<p align="center">
-  <img alt="Architecture" src="architecture.png" style="display: block; margin: 0 auto;" height="100%" width="600" >
-</p>
-
-The above figures shows a schematic overview of how this repository was used in a past research paper. For details, please see the corresponding publication: [Are iPhones Really Better for Privacy? AComparative Study of iOS and Android Apps](https://arxiv.org/abs/2109.13722)
 
 ## Data Access
 
