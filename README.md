@@ -17,7 +17,7 @@ If you're interested in getting access to the data that we used for our study, p
 We're currently in the process of making our data available.
 
 We've already published:
-- our dataset of iOS tracker libraries: <https://github.com/OxfordHCC/platformcontrol-analysis/blob/main/data/ios_signatures.json>
+- our dataset of iOS tracker libraries: <https://github.com/kasnder/platformcontrol-analysis/blob/main/data/ios_signatures.json>
 - our database of tracking domains, and the networks of companies and the jurisdictions behind: <https://github.com/OxfordHCC/tracker-control-android/blob/master/app/src/main/assets/xray-blacklist.json>
 
 ## Ready-to-use analysis with TrackerControl
