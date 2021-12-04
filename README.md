@@ -10,6 +10,14 @@ This project has multiple parts:
 4. <https://github.com/kasnder/platformcontrol-android-ios-analysis> - For the analysis of tracking libraries and contacted tracking domains, for both iOS and Android
 5. <https://github.com/OxfordHCC/JustTrustMe> - To disable certificate pinning in Android apps
 
+## Overview
+
+<p align="center">
+  <img alt="Architecture" src="architecture.png" style="display: block; margin: 0 auto;" height="100%" width="600" >
+</p>
+
+The above figures shows a schematic overview of how this repository was used in a past research paper. For details, please see the corresponding publication: [Are iPhones Really Better for Privacy? AComparative Study of iOS and Android Apps](https://arxiv.org/abs/2109.13722)
+
 ## Data Access
 
 If you're interested in getting access to the data that we used for our study, please get in touch with us directly.
