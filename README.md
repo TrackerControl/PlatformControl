@@ -2,6 +2,8 @@
 
 **Download and privacy analysis of iOS and Android apps at scale.**
 
+## Overview
+
 This project has multiple parts:
 
 1. <https://github.com/OxfordHCC/xray-archiver-android-ios> - To explore what iOS and Android apps are on the app stores, and also for the download of Android apps, as well as a high level analysis of iOS and Android apps (permissions, mainly).
@@ -9,8 +11,6 @@ This project has multiple parts:
 3. <https://github.com/OxfordHCC/platformcontrol-ios-downloader> - To download iOS apps at scale from the App Store.
 4. <https://github.com/kasnder/platformcontrol-android-ios-analysis> - For the analysis of tracking libraries and contacted tracking domains, for both iOS and Android
 5. <https://github.com/OxfordHCC/JustTrustMe> - To disable certificate pinning in Android apps
-
-## Overview
 
 <p align="center">
   <img alt="Architecture" src="architecture.png" style="display: block; margin: 0 auto;" height="100%" width="600" >
