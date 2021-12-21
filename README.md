@@ -49,7 +49,7 @@ If you use this project as part of your academic studies, please kindly cite the
 ```
 @article{kollnig2022_iphone_android,
       title={Are iPhones Really Better for Privacy? A Comparative Study of iOS and Android Apps}, 
-      author={Konrad Kollnig and Anastasia Shuba and Reuben Binns and Max {Van Kleek} and Nigel Shadbolt},
+      author={Konrad Kollnig and Anastasia Shuba and Reuben Binns and Max Van Kleek and Nigel Shadbolt},
       year={2022},
       journal={Proceedings on Privacy Enhancing Technologies}
 }
@@ -57,7 +57,7 @@ If you use this project as part of your academic studies, please kindly cite the
 @article{kollnig_before_2021,
       title = {Before and after {{GDPR}}: Tracking in Mobile Apps},
       shorttitle = {Before and after {{GDPR}}},
-      author = {Kollnig, Konrad and Binns, Reuben and {Van Kleek}, Max and Lyngs, Ulrik and Zhao, Jun and Tinsman, Claudine and Shadbolt, Nigel},
+      author = {Kollnig, Konrad and Binns, Reuben and Max Van Kleek and Lyngs, Ulrik and Zhao, Jun and Tinsman, Claudine and Shadbolt, Nigel},
       year = {2021},
       journaltitle = {Internet Policy Review},
       volume = {10},
