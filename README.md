@@ -21,6 +21,7 @@ This project has multiple parts:
 3. <https://github.com/OxfordHCC/platformcontrol-ios-downloader> - To download iOS apps at scale from the App Store.
 4. <https://github.com/kasnder/platformcontrol-android-ios-analysis> - For the analysis of tracking libraries and contacted tracking domains, for both iOS and Android
 5. <https://github.com/OxfordHCC/JustTrustMe> - To disable certificate pinning in Android apps
+6. <https://gist.github.com/kasnder/3f0a28c62fab5c3a7e11203984b4a952> - How to grant permissions to iOS and Android apps through the command line (important for analysis of PII from network traffic).
 
 ## Data Access
 
