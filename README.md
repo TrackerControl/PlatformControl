@@ -22,6 +22,7 @@ This project has multiple parts:
 4. <https://github.com/kasnder/platformcontrol-android-ios-analysis> - For the analysis of tracking libraries and contacted tracking domains, for both iOS and Android
 5. <https://github.com/OxfordHCC/JustTrustMe> - To disable certificate pinning in Android apps
 6. <https://kollnig.net/2022/01/app-research-circumventing-permissions/> - How to grant permissions to iOS and Android apps through the command line (important for analysis of PII from network traffic). Script [here](https://gist.github.com/kasnder/3eb32449512a4dba4a92949c8d337a92).
+7. <https://github.com/facundoolano/app-store-scraper#privacy> - Retrieval of privacy labels from Apple App Store. Code written and contributed by [@kasnder](https://github.com/kasnder/).
 
 ## Data Access
 
