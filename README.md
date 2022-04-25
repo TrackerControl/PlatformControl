@@ -49,34 +49,51 @@ Download directly [here](https://github.com/OxfordHCC/tracker-control-android/re
 If you use this project as part of your academic studies, please kindly cite the below articles:
 
 ```
-@article{kollnig2022_iphone_android,
-      title={Are iPhones Really Better for Privacy? A Comparative Study of iOS and Android Apps}, 
-      author={Konrad Kollnig and Anastasia Shuba and Reuben Binns and Max Van Kleek and Nigel Shadbolt},
-      year={2022},
-      journal={Proceedings on Privacy Enhancing Technologies}
+@article{kollnig_goodbye_2022,
+  title = {Goodbye {{Tracking}}? {{Impact}} of {{iOS App Tracking Transparency}} and {{Privacy Labels}}},
+  shorttitle = {Goodbye {{Tracking}}?},
+  author = {Kollnig, Konrad and Shuba, Anastasia and Van Kleek, Max and Binns, Reuben and Shadbolt, Nigel},
+  year = {2022},
+  journal = {arXiv:2204.03556 [cs]},
+  eprint = {2204.03556},
+  eprinttype = {arxiv},
+  primaryclass = {cs},
+  archiveprefix = {arXiv}
+}
+
+@article{kollnig2021_iphone_android,
+  author = {Konrad Kollnig and Anastasia Shuba and Reuben Binns and Max Van Kleek and Nigel Shadbolt},
+  doi = {10.2478/popets-2022-0033},
+  title = {Are {iPhones} Really Better for Privacy? A Comparative Study of {iOS} and {Android} Apps},
+  journal = {Proceedings on Privacy Enhancing Technologies},
+  number = {2},
+  volume = {2022},
+  year = {2022},
+  pages = {6--24}
 }
 
 @article{kollnig_before_2021,
-      title = {Before and after {GDPR}: Tracking in Mobile Apps},
-      shorttitle = {Before and after {GDPR}},
-      author = {Kollnig, Konrad and Binns, Reuben and Van Kleek, Max and Lyngs, Ulrik and Zhao, Jun and Tinsman, Claudine and Shadbolt, Nigel},
-      year = {2021},
-      journaltitle = {Internet Policy Review},
-      volume = {10},
-      number = {4},
-      issn = {2197-6775},
-      doi = {10.14763/2021.4.1611}
+  title = {Before and after {GDPR}: Tracking in Mobile Apps},
+  shorttitle = {Before and after {GDPR}},
+  author = {Kollnig, Konrad and Binns, Reuben and Van Kleek, Max and Lyngs, Ulrik and Zhao, Jun and Tinsman, Claudine and Shadbolt, Nigel},
+  year = {2021},
+  journaltitle = {Internet Policy Review},
+  volume = {10},
+  number = {4},
+  issn = {2197-6775},
+  doi = {10.14763/2021.4.1611},
+  numpages = 30
 }
 
 @inproceedings {kollnig2021_consent,
-      author = {Konrad Kollnig and Reuben Binns and Pierre Dewitte and Max Van Kleek and Ge Wang and Daniel Omeiza and Helena Webb and Nigel Shadbolt},
-      title = {A Fait Accompli? An Empirical Study into the Absence of Consent to Third-Party Tracking in Android Apps},
-      booktitle = {Seventeenth Symposium on Usable Privacy and Security ({SOUPS} 2021)},
-      year = {2021},
-      isbn = {978-1-939133-25-0},
-      pages = {181--196},
-      url = {https://www.usenix.org/conference/soups2021/presentation/kollnig},
-      publisher = {{USENIX Association}},
-      month = aug,
+  author = {Konrad Kollnig and Reuben Binns and Pierre Dewitte and Max Van Kleek and Ge Wang and Daniel Omeiza and Helena Webb and Nigel Shadbolt},
+  title = {A Fait Accompli? An Empirical Study into the Absence of Consent to Third-Party Tracking in Android Apps},
+  booktitle = {Seventeenth Symposium on Usable Privacy and Security ({SOUPS} 2021)},
+  year = {2021},
+  isbn = {978-1-939133-25-0},
+  pages = {181--196},
+  url = {https://www.usenix.org/conference/soups2021/presentation/kollnig},
+  publisher = {{USENIX Association}},
+  month = aug,
 }
 ```
