@@ -1,6 +1,6 @@
 # PlatformControl
 
-**Download and privacy analysis of iOS and Android apps at scale.**
+**Download and privacy analysis of iOS and Android apps at scale and over time.**
 
 The development of PlatformControl was led by Konrad Kollnig from the Computer Science Department, University of Oxford.
 
@@ -16,19 +16,19 @@ The above figure shows a schematic overview of how this repository was used in a
 
 This project has multiple parts:
 
-1. <https://github.com/OxfordHCC/xray-archiver-android-ios> - To explore what iOS and Android apps are on the app stores, and also for the download of Android apps, as well as a high level analysis of iOS and Android apps (permissions, mainly).
-2. <https://github.com/OxfordHCC/platformcontrol-token-dispenser> - Required for the downloading of Android apps at scale.
-3. <https://github.com/OxfordHCC/platformcontrol-ios-downloader> - To download iOS apps at scale from the App Store.
-4. <https://github.com/kasnder/platformcontrol-android-ios-analysis> - For the analysis of tracking libraries and contacted tracking domains, for both iOS and Android
-5. <https://github.com/OxfordHCC/JustTrustMe> - To disable certificate pinning in Android apps
+1. <https://github.com/TrackerControl/xray-archiver-android-ios> - To explore what iOS and Android apps are on the app stores, and also for the download of Android apps, as well as a high level analysis of iOS and Android apps (permissions, mainly).
+2. <https://github.com/TrackerControl/platformcontrol-token-dispenser> - Required for the downloading of Android apps at scale.
+3. <https://github.com/TrackerControl/platformcontrol-ios-downloader> - To download iOS apps at scale from the App Store.
+4. <https://github.com/TrackerControl/platformcontrol-android-ios-analysis> - For the analysis of tracking libraries and contacted tracking domains, for both iOS and Android
+5. <https://github.com/TrackerControl/JustTrustMe> - To disable certificate pinning in Android apps
 6. <https://kollnig.net/2022/01/app-research-circumventing-permissions/> - How to grant permissions to iOS and Android apps through the command line (important for analysis of PII from network traffic). Script [here](https://gist.github.com/kasnder/3eb32449512a4dba4a92949c8d337a92).
 7. <https://github.com/facundoolano/app-store-scraper#privacy> - Retrieval of privacy labels from Apple App Store. Code written and contributed by [@kasnder](https://github.com/kasnder/).
 
 ## Data Access
 
 We've already published:
-- our dataset of iOS tracker libraries: <https://github.com/kasnder/platformcontrol-android-ios-analysis/blob/main/data/ios_signatures.json>
-- our database of tracking domains, and the networks of companies and the jurisdictions behind: <https://github.com/OxfordHCC/tracker-control-android/blob/master/app/src/main/assets/xray-blacklist.json>
+- our dataset of iOS tracker libraries: <https://github.com/TrackerControl/platformcontrol-android-ios-analysis/blob/main/data/ios_signatures.json>
+- our database of tracking domains, and the networks of companies and the jurisdictions behind: <https://github.com/TrackerControl/tracker-control-android/blob/master/app/src/main/assets/xray-blacklist.json>
 
 We're currently in the process of making more data available.
 
@@ -37,12 +37,12 @@ We're currently in the process of making more data available.
 As a sub project of PlatformControl, TrackerControl is an indepedent and somewhat popular Android app to privacy analysis and control. It contains some of the core analysis functionality of PlatformControl (though by far not all of it), conducting both network traffic and tracker library analysis.
 
 <p align="center">
-  <img alt="TrackerControl Logo" src="https://raw.githubusercontent.com/kasnder/tracker-control-android/master/images/logo.png" style="display: block; margin: 0 auto;" height="100%" width="200" >
+  <img alt="TrackerControl Logo" src="https://raw.githubusercontent.com/TrackerControl/tracker-control-android/master/images/logo.png" style="display: block; margin: 0 auto;" height="100%" width="200" >
 </p>
 
 You can find TrackerControl at <https://trackercontrol.org/>.
 
-Download directly [here](https://github.com/OxfordHCC/tracker-control-android/releases/latest/download/TrackerControl-githubRelease-latest.apk), from [F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid), or a feature-reduced version from [Google Play](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play).
+Download directly [here](https://github.com/TrackerControl/tracker-control-android/releases/latest/download/TrackerControl-githubRelease-latest.apk), from [F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid), or a feature-reduced version from [Google Play](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play).
 
 ## Citation
 
